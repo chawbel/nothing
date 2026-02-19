@@ -1,5 +1,3 @@
-
-
 """
 Maze solver module.
 
